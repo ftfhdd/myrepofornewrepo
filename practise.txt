@@ -1,0 +1,4 @@
+reset and restore and undo practise
+commit1
+used git reset HEAD~1 it worked like it take the file to unmodified and my commit 1 is removed 
+commit 2 using git reset hard harsh 
